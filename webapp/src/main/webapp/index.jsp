@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h2>Subscribe to our Newsletter to get notified whenever there is a new news in town</h2>
+    <h2>Subscribe to get Notified Before anyone else does</h2>
     <p>Lorem ipsum..</p>
   </div>
 
