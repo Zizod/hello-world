@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register For Early Access Touch here</h1>
+    <h1>Born out of Rage</h1>
     <p>Please fill in this form to create an account.ASAP</p>
     <hr>
     <label for="Name"><b>Enter Name</b></label>
