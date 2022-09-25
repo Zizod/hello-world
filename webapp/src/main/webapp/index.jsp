@@ -3,10 +3,10 @@
     <h1>Born out of Rage</h1>
     <p>Please fill in this form to create an account.ASAP</p>
     <hr>
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter Name As per ID Card</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Enter Gmail herer</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
     <label for="psw"><b>Password</b></label>
