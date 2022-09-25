@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Born out of Rage !!!BLACK ADAM</h1>
+    <h1>Born out of Rage !!!BLACK ADAM I SEE THE FEAR!!!!!</h1>
     <p>Please fill in this form to create an account.ASAP</p>
     <hr>
     <label for="Name"><b>Enter Name As per ID Card</b></label>
-    <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Kindly Enter Name" name="Name" id="Name" required>
 
     <label for="email"><b>Enter Gmail here</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
