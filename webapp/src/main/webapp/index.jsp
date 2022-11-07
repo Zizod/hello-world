@@ -21,7 +21,7 @@
   </div>
 
   <div class="container signin">
-    <p>Already have an account???????????????????? <a href="#">Sign in</a>.</p>
+    <p>Already have an account????,Please register <a href="#">Sign in</a>.</p>
   </div>
    <h1> Thankyou , Happy Learning, Never Give Up </h1>
 </form>
