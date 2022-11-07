@@ -12,7 +12,7 @@
     <label for="psw"><b>Enter The Password!!!!</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
-    <label for="psw-repeat"><b>Please Repeat the Password to Continue</b></label>
+    <label for="psw-repeat"><b>Please Repeat the Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
@@ -23,5 +23,5 @@
   <div class="container signin">
     <p>Already have an account????,Please register <a href="#">Sign in</a>.</p>
   </div>
-   <h1> Thankyou , Happy Learning, Never Give Up </h1>
+   <h1> Thankyou , Happy Learning, Never Give Up, Bless You </h1>
 </form>
