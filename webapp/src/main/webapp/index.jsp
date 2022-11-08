@@ -6,7 +6,7 @@
     <label for="Name"><b>Enter Name As per ID Card</b></label>
     <input type="text" placeholder="Kindly Enter Name" name="Name" id="Name" required>
 
-    <label for="email"><b>Enter Gmail here!!!!!!!!!</b></label>
+    <label for="email"><b>Enter Gmail here,And Phn no</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
     <label for="psw"><b>Enter The Password!!!!</b></label>
